@@ -1,0 +1,17 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 16px;
+}
+
+p {
+  font-size: 1.4rem;
+}
+
+.em {
+  width: 50vw;
+  height: 50vh;
+  border: 1px solid black;
+}
